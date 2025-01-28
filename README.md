@@ -14,3 +14,6 @@ It offers flexible high quality rendering and a powerful plugin architecture.
 
 The Tinker molecular modeling software is a complete and general package for molecular mechanics and dynamics, with some special features for biopolymers. Tinker has the ability to use any of several common parameter sets, such as Amber (ff94, ff96, ff98, ff99, ff99SB), CHARMM (19, 22, 22/CMAP), Allinger MM (MM2-1991 and MM3-2000), OPLS (OPLS-UA, OPLS-AA), Merck Molecular Force Field (MMFF), Liam Dang's polarizable model, AMOEBA (2004, 2009, 2013, 2017, 2018) polarizable atomic multipole force fields, AMOEBA+ that adds charge penetration effects, and our new HIPPO (Hydrogen-like Interatomic Polarizable POtential) force field.
 
+
+
+[PACKMOL](https://m3g.github.io/packmol/)
