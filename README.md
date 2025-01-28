@@ -3,7 +3,7 @@
 
 # ![image](https://github.com/user-attachments/assets/0a9cf37c-0b4a-43be-9a3b-4dd543a49d7a) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Avogadro2  
 
-[Avogadro download](https://sourceforge.net/projects/avogadro/files/latest/download)
+[Avogadro Download](https://sourceforge.net/projects/avogadro/files/latest/download)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Avogadro Manual](https://avogadro.cc/docs/)
 
