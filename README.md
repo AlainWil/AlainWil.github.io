@@ -1,5 +1,5 @@
 
- ### Applied Molecular Dynamics and Quantum Mechanics Molecular Simulations
+ ## Applied Molecular Dynamics and Quantum Mechanics Molecular Simulations
 
 ![image](https://github.com/user-attachments/assets/4e1b221b-f245-43a0-8714-96689839639f)   https://avogadro.cc/
 
