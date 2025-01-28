@@ -18,4 +18,7 @@ The Tinker molecular modeling software is a complete and general package for mol
 
 [PACKMOL](https://m3g.github.io/packmol/)
 
-
+PACKMOL creates an initial point for molecular dynamics simulations by packing molecules in defined regions of space. The packing guarantees that short range repulsive interactions do not disrupt the simulations.
+The great variety of types of spatial constraints that can be attributed to the molecules, or atoms within the molecules, makes it easy to create ordered systems, such as lamellar, spherical or tubular lipid layers.
+The user must provide only the coordinates of one molecule of each type, the number of molecules of each type and the spatial constraints that each type of molecule must satisfy.
+The package is compatible with input files of PDB, TINKER, XYZ and MOLDY formats.
