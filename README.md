@@ -16,7 +16,7 @@ The Tinker molecular modeling software is a complete and general package for mol
 
 # ![image](https://github.com/user-attachments/assets/782fd85b-9cd5-4359-bcda-ffb33d4b16c3) &nbsp;&nbsp;&nbsp; PACKMOL
 
-[PACKMOL](https://github.com/user-attachments/assets/ee38c3d9-d96a-4fee-a75c-b6aa47791ba0)
+[PACKMOL](https://m3g.github.io/packmol/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [PACKMOL Download](https://m3g.github.io/packmol/download.shtml)
 
