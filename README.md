@@ -30,3 +30,6 @@ PACKMOL creates an initial point for molecular dynamics simulations by packing m
 The great variety of types of spatial constraints that can be attributed to the molecules, or atoms within the molecules, makes it easy to create ordered systems, such as lamellar, spherical or tubular lipid layers.
 The user must provide only the coordinates of one molecule of each type, the number of molecules of each type and the spatial constraints that each type of molecule must satisfy.
 The package is compatible with input files of PDB, TINKER, XYZ and MOLDY formats.
+
+# !
+
