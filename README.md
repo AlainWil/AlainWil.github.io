@@ -31,7 +31,7 @@ The great variety of types of spatial constraints that can be attributed to the 
 The user must provide only the coordinates of one molecule of each type, the number of molecules of each type and the spatial constraints that each type of molecule must satisfy.
 The package is compatible with input files of PDB, TINKER, XYZ and MOLDY formats.
 
-# ![image](https://github.com/user-attachments/assets/c45ec217-79e9-4573-9baa-f588efa18fdf) &nbsp;&nbsp;&nbsp; VMD
+# ![image]![image](https://github.com/user-attachments/assets/f408119e-f779-484c-8e96-7023023060aa) &nbsp;&nbsp;&nbsp; VMD
 
 [PACKMOL](https://www.ks.uiuc.edu/Research/vmd/)
 
