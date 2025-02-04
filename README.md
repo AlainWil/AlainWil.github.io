@@ -1,6 +1,5 @@
 
-# ![image](https://github.com/user-attachments/assets/0a9cf37c-0b4a-43be-9a3b-4dd543a49d7a) &nbsp;&nbsp;&nbsp; Avogadro2 &nbsp;&nbsp;&nbsp; 
-![image](https://github.com/user-attachments/assets/58976a66-0927-428c-bbfd-8c1323114328) &nbsp;&nbsp;&nbsp; Avogadro1 
+# ![image](https://github.com/user-attachments/assets/0a9cf37c-0b4a-43be-9a3b-4dd543a49d7a) &nbsp;&nbsp;&nbsp; Avogadro2 &nbsp;&nbsp;&nbsp; ![image](https://github.com/user-attachments/assets/58976a66-0927-428c-bbfd-8c1323114328) &nbsp;&nbsp;&nbsp; Avogadro1 
 
 [Avogadro Download](https://sourceforge.net/projects/avogadro/files/latest/download)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
