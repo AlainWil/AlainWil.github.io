@@ -25,6 +25,8 @@ Tinker 9 is a reimplementation of significant portions of Tinker in C++, using O
 [PACKMOL](https://m3g.github.io/packmol/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [PACKMOL Download](https://m3g.github.io/packmol/download.shtml)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[PACKMOL Examples](https://m3g.github.io/packmol/examples.shtml)
 
 PACKMOL creates an initial point for molecular dynamics simulations by packing molecules in defined regions of space. The packing guarantees that short range repulsive interactions do not disrupt the simulations.
 The great variety of types of spatial constraints that can be attributed to the molecules, or atoms within the molecules, makes it easy to create ordered systems, such as lamellar, spherical or tubular lipid layers.
