@@ -89,3 +89,4 @@ Both simple to use and many advanced GAMESS features are available.
 Automatically include optimized orbitals from one computation into your next run!
 Generate input for GAMESS Effective Fragment Potential computations.
 Generate input for GAMESS Fragment Molecular Orbital computations.
+
