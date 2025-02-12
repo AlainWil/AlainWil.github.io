@@ -26,7 +26,7 @@ Tinker 9 is a reimplementation of significant portions of Tinker in C++, using O
 
 # ![image](https://github.com/user-attachments/assets/782fd85b-9cd5-4359-bcda-ffb33d4b16c3) &nbsp;&nbsp;&nbsp; PACKMOL
 
-[PACKMOL](https://m3g.github.io/packmol/)
+[PACKMOL WebPage](https://m3g.github.io/packmol/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [PACKMOL Download](https://m3g.github.io/packmol/download.shtml)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,7 +53,7 @@ Current NAMD or VMD users, please enter your existing username and password.
 
 # ![image](https://github.com/user-attachments/assets/4bacc980-3796-4c64-9c60-a214b1e06f49) &nbsp;&nbsp;&nbsp; GAMESS
 
-[GAMESS](https://www.msg.chem.iastate.edu/index.html)
+[GAMESS WebPage](https://www.msg.chem.iastate.edu/index.html)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [GAMESS Download](https://www.msg.chem.iastate.edu/gamess/download.html)
 
@@ -61,7 +61,7 @@ GAMESS is a program for ab initio molecular quantum chemistry. GAMESS can comput
 
 # ![image](https://github.com/user-attachments/assets/f639ded3-56ee-4b9c-9893-cfd25c31203e) &nbsp;&nbsp;&nbsp; MacMolPlt
 
-[MacMolPlt](https://brettbode.github.io/wxmacmolplt/)
+[MacMolPlt WebPage](https://brettbode.github.io/wxmacmolplt/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [MacMolPlt Download](https://brettbode.github.io/wxmacmolplt/downloads.html)
 
