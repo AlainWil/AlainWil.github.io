@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Avogadro Manual](https://avogadro.cc/docs/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Avogadro Video](https://www.youtube.com/playlist?list=PLZfTq7uaKrcbqWau-m63vXiiif5PU-R-F)
+[Avogadro Tutorial Video](https://www.youtube.com/playlist?list=PLZfTq7uaKrcbqWau-m63vXiiif5PU-R-F)
 
 Avogadro is an advanced molecule editor and visualizer designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 It offers flexible high quality rendering and a powerful plugin architecture.
