@@ -55,6 +55,10 @@ GAMESS is a program for ab initio molecular quantum chemistry. GAMESS can comput
 
 # ![image](https://github.com/user-attachments/assets/f639ded3-56ee-4b9c-9893-cfd25c31203e) &nbsp;&nbsp;&nbsp; wxMacMolPlt
 
+[wxMacMolPlt](https://brettbode.github.io/wxmacmolplt/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[wxMacMolPlt Download](https://brettbode.github.io/wxmacmolplt/downloads.html)
+
 A modern graphics program for plotting 3-D molecular structures and normal modes (vibrations).
 Mouse driven interface for real-time rotation and translation.
 Copy and paste functionality for interfacing to other programs such as word processors or other graphics programs (like ChemDraw).
@@ -85,7 +89,3 @@ Both simple to use and many advanced GAMESS features are available.
 Automatically include optimized orbitals from one computation into your next run!
 Generate input for GAMESS Effective Fragment Potential computations.
 Generate input for GAMESS Fragment Molecular Orbital computations.
-
-[wxMacMolPlt](https://brettbode.github.io/wxmacmolplt/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[wxMacMolPlt Download](https://brettbode.github.io/wxmacmolplt/downloads.html)
