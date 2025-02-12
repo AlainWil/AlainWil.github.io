@@ -49,7 +49,7 @@ Current NAMD or VMD users, please enter your existing username and password.
 
 [GAMESS](https://www.msg.chem.iastate.edu/index.html)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[GAMESS Download](https://www.msg.chem.iastate.edu/gamess/download.html))
+[GAMESS Download](https://www.msg.chem.iastate.edu/gamess/download.html)
 
 GAMESS is a program for ab initio molecular quantum chemistry. GAMESS can compute SCF wavefunctions ranging from RHF, ROHF, UHF, GVB, and MCSCF. Correlation corrections to these SCF wavefunctions include Configuration Interaction, second order perturbation Theory, and Coupled-Cluster approaches, as well as the Density Functional Theory approximation. Excited states can be computed by CI, EOM, or TD-DFT procedures. Nuclear gradients are available, for automatic geometry optimization, transition state searches, or reaction path following. Computation of the energy hessian permits prediction of vibrational frequencies, with IR or Raman intensities. Solvent effects may be modeled by the discrete Effective Fragment potentials, or continuum models such as the Polarizable Continuum Model. Numerous relativistic computations are available, including infinite order two component scalar relativity corrections, with various spin-orbit coupling options. The Fragment Molecular Orbital method permits use of many of these sophisticated treatments to be used on very large systems, by dividing the computation into small fragments. Nuclear wavefunctions can also be computed, in VSCF, or with explicit treatment of nuclear orbitals by the NEO code.
 
