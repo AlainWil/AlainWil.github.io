@@ -55,6 +55,37 @@ GAMESS is a program for ab initio molecular quantum chemistry. GAMESS can comput
 
 # ![image](https://github.com/user-attachments/assets/f639ded3-56ee-4b9c-9893-cfd25c31203e) &nbsp;&nbsp;&nbsp; wxMacMolPlt
 
+A modern graphics program for plotting 3-D molecular structures and normal modes (vibrations).
+Mouse driven interface for real-time rotation and translation.
+Copy and paste functionality for interfacing to other programs such as word processors or other graphics programs (like ChemDraw).
+3D color display with lighting and shading using OpenGL.
+Simple printing to color or black and white printers (publication quality).
+Output high quality images in a variety of both still (jpeg, gif, etc) and animated (gif, flash, etc) formats.
+Multiple files open at once.
+It reads a variety of file formats including any GAMESS input, log or IRC file directly to create animations of IRC's, DRC's, and optimizations. You may also import a $VEC group from any file (such as a GAMESS .DAT file). In addition xMol XYZ files, MolDen format files and Chemical Markup Language (CML) files are supported. Also some PDB file support and MDL MolFile support is included.
+Fast (multi-threaded) on the fly computation of orbitals, densities and molecular electrostatic potentials for display as 2D contour maps or 3D isosurfaces!
+2D Contour maps computed live with rotations or animations!
+Compute orbitals across an animation.
+Molecular Electrostatic Potentials available either alone or color mapped to a total electron density isosurface.
+Ability to create density difference maps, or abitrary combinations of densities.
+Molecular point group symmetry is supported.
+You may also paste GAMESS and Gaussian-92 style cartesian coordinates directly into the program.
+Animation of Normal Modes.
+Animation of IRC's, and DRC's including orbitals.
+Simple Energy Plots (including geometrical parameters).
+Simple frequency line graph of frequency versus infrared or Raman intensity.
+Append multiple GAMESS files together to create a single animation.
+Build or modify molecules using the graphical molecule builder.
+Quickly build realistic 3D structures.
+rotate selected atoms about bonds, change bond or dihedral angles.
+translate and rotate selected subgroups.
+Build molecules from scratch using cartesian or internal coordinates.
+GAMESS input file (.inp) builder.
+Both simple to use and many advanced GAMESS features are available.
+Automatically include optimized orbitals from one computation into your next run!
+Generate input for GAMESS Effective Fragment Potential computations.
+Generate input for GAMESS Fragment Molecular Orbital computations.
+
 [wxMacMolPlt](https://brettbode.github.io/wxmacmolplt/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [wxMacMolPlt Download](https://brettbode.github.io/wxmacmolplt/downloads.html)
