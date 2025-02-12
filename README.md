@@ -47,7 +47,7 @@ Current NAMD or VMD users, please enter your existing username and password.
 
 
 # ![image](https://github.com/user-attachments/assets/4bacc980-3796-4c64-9c60-a214b1e06f49) &nbsp;&nbsp;&nbsp; GAMESS
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 [GAMESS](https://www.msg.chem.iastate.edu/index.html)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [GAMESS Download](https://www.msg.chem.iastate.edu/index.html)
