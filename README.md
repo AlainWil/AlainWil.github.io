@@ -39,7 +39,7 @@ The package is compatible with input files of PDB, TINKER, XYZ and MOLDY formats
 
 # ![image](https://github.com/user-attachments/assets/c6c40182-50b5-4ed5-8c36-03f4d6b089fc) &nbsp;&nbsp;&nbsp; VMD
 
-[VMD](https://www.ks.uiuc.edu/Research/vmd/)
+[VMD WebPage](https://www.ks.uiuc.edu/Research/vmd/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [VMD Download](https://www.ks.uiuc.edu/Development/Download/download.cgi?UserID=&AccessCode=&ArchiveID=1647)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
