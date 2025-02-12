@@ -1,5 +1,5 @@
  
-# ![image](https://github.com/user-attachments/assets/e595812e-92e8-470f-8737-fde5c8acd06c) &nbsp;&nbsp;&nbsp; Avogadro2
+# ![image](https://github.com/user-attachments/assets/25e3b62b-1326-484a-94c2-34a8e6888157) &nbsp;&nbsp;&nbsp; Avogadro2
  
 [Avogadro Download](https://sourceforge.net/projects/avogadro/files/latest/download)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
