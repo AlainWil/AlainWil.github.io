@@ -1,3 +1,4 @@
+
 <h1 align="center">Software</h1>
 
 # ![image](https://github.com/user-attachments/assets/aae665c2-6d06-430d-b6c0-54ac13980a7c) &nbsp;&nbsp;&nbsp; Avogadro2
@@ -111,7 +112,7 @@ Generate input for GAMESS Fragment Molecular Orbital computations.
 
 <h1 align="center">Litterature</h1>
 
-# Molecular Simulations   Fundamentals and Practice
+# Molecular Simulations - Fundamentals and Practice &nbsp;&nbsp;&nbsp;
 
 <img align="left" src="https://github.com/user-attachments/assets/4d1cc64b-06a6-425b-998a-c01183aeeacf" alt="My Image">
 
