@@ -111,18 +111,20 @@ Generate input for GAMESS Fragment Molecular Orbital computations.
 
 <h1 align="center">Litterature</h1>
 
-<hr width="100%" size="2">
+# Molecular Simulations   Fundamentals and Practice
 
-Provides hands-on knowledge enabling students of and researchers in chemistry, biology, and engineering to perform molecular simulations
+<img align="left" src="https://github.com/user-attachments/assets/4d1cc64b-06a6-425b-998a-c01183aeeacf" alt="My Image">
+
+Provides hands-on knowledge enabling students of and researchers in chemistry, biology, and engineering to perform molecular simulations.
 
 This book introduces the fundamentals of molecular simulations for a broad, practice-oriented audience and presents a thorough overview of the underlying concepts. It covers classical mechanics for many-molecule systems as well as force-field models in classical molecular dynamics; introduces probability concepts and statistical mechanics; and analyzes numerous simulation methods, techniques, and applications.
 
 Molecular Simulations: Fundamentals and Practice starts by covering Newton's equations, which form the basis of classical mechanics, then continues on to force-field methods for modelling potential energy surfaces. It gives an account of probability concepts before subsequently introducing readers to statistical and quantum mechanics. In addition to Monte-Carlo methods, which are based on random sampling, the core of the book covers molecular dynamics simulations in detail and shows how to derive critical physical parameters. It finishes by presenting advanced techniques, and gives invaluable advice on how to set up simulations for a diverse range of applications.
 
--Addresses the current need of students of and researchers in chemistry, biology, and engineering to understand and perform their own molecular simulations
--Covers the nitty-gritty ? from Newton's equations and classical mechanics over force-field methods, potential energy surfaces, and probability concepts to statistical and quantum mechanics
--Introduces physical, chemical, and mathematical background knowledge in direct relation with simulation practice
--Highlights deterministic approaches and random sampling (eg: molecular dynamics versus Monte-Carlo methods)
--Contains advanced techniques and practical advice for setting up different simulations to prepare readers entering this exciting field
+Addresses the current need of students of and researchers in chemistry, biology, and engineering to understand and perform their own molecular simulations.
+Covers the nitty-gritty ? from Newton's equations and classical mechanics over force-field methods, potential energy surfaces, and probability concepts to statistical and quantum mechanics.
+Introduces physical, chemical, and mathematical background knowledge in direct relation with simulation practice.
+Highlights deterministic approaches and random sampling (eg: molecular dynamics versus Monte-Carlo methods).
+Contains advanced techniques and practical advice for setting up different simulations to prepare readers entering this exciting field.
 
 Molecular Simulations: Fundamentals and Practice is an excellent book benefitting chemist, biologists, engineers as well as materials scientists and those involved in biotechnology.
