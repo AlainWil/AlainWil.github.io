@@ -1,4 +1,5 @@
- 
+<h1 align="center">Software</h1>
+
 # ![image](https://github.com/user-attachments/assets/aae665c2-6d06-430d-b6c0-54ac13980a7c) &nbsp;&nbsp;&nbsp; Avogadro2
 
 [Avogadro WebPage](https://avogadro.cc/)
@@ -12,6 +13,8 @@
 Avogadro is an advanced molecule editor and visualizer designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.
 It offers flexible high quality rendering and a powerful plugin architecture.
 
+<hr width="100%" size="2">
+
 # ![image](https://github.com/user-attachments/assets/c2482d54-44e4-4b75-a34a-7dd3249ba061) &nbsp;&nbsp;&nbsp; Tinker  
 
 [Tinker-FFE Installer for Windows](https://dasher.wustl.edu/tinker/)
@@ -23,6 +26,8 @@ Tinker 8 is a major new release of the Ponder Lab tool set for molecular mechani
 Tinker is also available on Github! The TinkerTools organization has a full Github site at [Github](https://github.com/) TinkerTools with complete source code for canonical Tinker and other packages in the Tinker software suite. The master repository on the Github site is updated frequently with new minor features and bug fixes. It the place to go for the latest revisions of the software. Prebuilt executables are not available via the Github site.
 
 Tinker 9 is a reimplementation of significant portions of Tinker in C++, using OpenACC and CUDA to support NVIDIA GPU calculations. Tinker-HP is an distributed, MPI-parallel Fortran code that is also GPU capable via use of CUDA for compute intensive functions. Both of these Tinker-based codes are available from the TinkerTools Github site.
+
+<hr width="100%" size="2">
 
 # ![image](https://github.com/user-attachments/assets/782fd85b-9cd5-4359-bcda-ffb33d4b16c3) &nbsp;&nbsp;&nbsp; PACKMOL
 
@@ -36,6 +41,8 @@ PACKMOL creates an initial point for molecular dynamics simulations by packing m
 The great variety of types of spatial constraints that can be attributed to the molecules, or atoms within the molecules, makes it easy to create ordered systems, such as lamellar, spherical or tubular lipid layers.
 The user must provide only the coordinates of one molecule of each type, the number of molecules of each type and the spatial constraints that each type of molecule must satisfy.
 The package is compatible with input files of PDB, TINKER, XYZ and MOLDY formats.
+
+<hr width="100%" size="2">
 
 # ![image](https://github.com/user-attachments/assets/c6c40182-50b5-4ed5-8c36-03f4d6b089fc) &nbsp;&nbsp;&nbsp; VMD
 
@@ -51,6 +58,8 @@ You will need a username and password to download software.
 If this is your first download, please choose a username and password to register.
 Current NAMD or VMD users, please enter your existing username and password.
 
+<hr width="100%" size="2">
+
 # ![image](https://github.com/user-attachments/assets/4bacc980-3796-4c64-9c60-a214b1e06f49) &nbsp;&nbsp;&nbsp; GAMESS
 
 [GAMESS WebPage](https://www.msg.chem.iastate.edu/index.html)
@@ -58,6 +67,8 @@ Current NAMD or VMD users, please enter your existing username and password.
 [GAMESS Download](https://www.msg.chem.iastate.edu/gamess/download.html)
 
 GAMESS is a program for ab initio molecular quantum chemistry. GAMESS can compute SCF wavefunctions ranging from RHF, ROHF, UHF, GVB, and MCSCF. Correlation corrections to these SCF wavefunctions include Configuration Interaction, second order perturbation Theory, and Coupled-Cluster approaches, as well as the Density Functional Theory approximation. Excited states can be computed by CI, EOM, or TD-DFT procedures. Nuclear gradients are available, for automatic geometry optimization, transition state searches, or reaction path following. Computation of the energy hessian permits prediction of vibrational frequencies, with IR or Raman intensities. Solvent effects may be modeled by the discrete Effective Fragment potentials, or continuum models such as the Polarizable Continuum Model. Numerous relativistic computations are available, including infinite order two component scalar relativity corrections, with various spin-orbit coupling options. The Fragment Molecular Orbital method permits use of many of these sophisticated treatments to be used on very large systems, by dividing the computation into small fragments. Nuclear wavefunctions can also be computed, in VSCF, or with explicit treatment of nuclear orbitals by the NEO code.
+
+<hr width="100%" size="2">
 
 # ![image](https://github.com/user-attachments/assets/f639ded3-56ee-4b9c-9893-cfd25c31203e) &nbsp;&nbsp;&nbsp; MacMolPlt
 
@@ -96,7 +107,22 @@ Automatically include optimized orbitals from one computation into your next run
 Generate input for GAMESS Effective Fragment Potential computations.
 Generate input for GAMESS Fragment Molecular Orbital computations.
 
+<hr width="100%" size="2">
 
-## Litterature
+<h1 align="center">Litterature</h1>
 
-<title>Horizontal line </title>
+<hr width="100%" size="2">
+
+Provides hands-on knowledge enabling students of and researchers in chemistry, biology, and engineering to perform molecular simulations
+
+This book introduces the fundamentals of molecular simulations for a broad, practice-oriented audience and presents a thorough overview of the underlying concepts. It covers classical mechanics for many-molecule systems as well as force-field models in classical molecular dynamics; introduces probability concepts and statistical mechanics; and analyzes numerous simulation methods, techniques, and applications.
+
+Molecular Simulations: Fundamentals and Practice starts by covering Newton's equations, which form the basis of classical mechanics, then continues on to force-field methods for modelling potential energy surfaces. It gives an account of probability concepts before subsequently introducing readers to statistical and quantum mechanics. In addition to Monte-Carlo methods, which are based on random sampling, the core of the book covers molecular dynamics simulations in detail and shows how to derive critical physical parameters. It finishes by presenting advanced techniques, and gives invaluable advice on how to set up simulations for a diverse range of applications.
+
+-Addresses the current need of students of and researchers in chemistry, biology, and engineering to understand and perform their own molecular simulations
+-Covers the nitty-gritty ? from Newton's equations and classical mechanics over force-field methods, potential energy surfaces, and probability concepts to statistical and quantum mechanics
+-Introduces physical, chemical, and mathematical background knowledge in direct relation with simulation practice
+-Highlights deterministic approaches and random sampling (eg: molecular dynamics versus Monte-Carlo methods)
+-Contains advanced techniques and practical advice for setting up different simulations to prepare readers entering this exciting field
+
+Molecular Simulations: Fundamentals and Practice is an excellent book benefitting chemist, biologists, engineers as well as materials scientists and those involved in biotechnology.
